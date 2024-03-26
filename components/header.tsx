@@ -55,7 +55,7 @@ export function Header() {
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: 'outline' }))}
         >
-          <IconEdit />
+          <IconList /> {/* replace IconGitHub with IconList */}
           <span className="hidden ml-2 md:flex">Settings</span>
         </a>
         <a
