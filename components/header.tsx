@@ -50,7 +50,7 @@ export function Header() {
       <div className="flex items-center justify-end space-x-2">
         <a
           target="_blank"
-          href="https://github.com/vercel/nextjs-ai-chatbot/"
+          href="https://leon.rishav.cc/settings"
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: 'outline' }))}
         >
@@ -58,7 +58,7 @@ export function Header() {
           <span className="hidden ml-2 md:flex">Settings</span>
         </a>
         <a
-          href="https://vercel.com/templates/Next.js/nextjs-ai-chatbot"
+          href="https://leon.rishav.cc/login"
           target="_blank"
           className={cn(buttonVariants())}
         >
