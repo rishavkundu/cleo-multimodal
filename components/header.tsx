@@ -5,6 +5,7 @@ import { cn } from '@/lib/utils'
 import { auth } from '@/auth'
 import { Button, buttonVariants } from '@/components/ui/button'
 import {
+  IconEdit,
   IconGitHub,
   IconNextChat,
   IconSeparator,
@@ -62,7 +63,7 @@ export function Header() {
           rel="noopener noreferrer"
           className={cn(buttonVariants({ variant: 'outline' }))}
         >
-          <IconGitHub />
+          <IconEdit />
           <span className="hidden ml-2 md:flex">Settings</span>
         </a>
         <a

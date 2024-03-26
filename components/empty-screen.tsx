@@ -27,8 +27,8 @@ export function EmptyScreen() {
           Welcome to LeonAI Conversational Assistant!
         </h1>
         <p className="leading-normal text-muted-foreground">
-          This is an open source AI chatbot app template built with{' '}
-          <ExternalLink href="https://nextjs.org">Next.js</ExternalLink>, the{' '}
+          Leon is an powerful multiagent system augmented with{' '}
+          <ExternalLink href="https://nextjs.org">a variety of tools</ExternalLink>, the{' '}
           <ExternalLink href="https://sdk.vercel.ai">
             Vercel AI SDK
           </ExternalLink>
