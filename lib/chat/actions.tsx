@@ -104,9 +104,8 @@ async function confirmPurchase(symbol: string, price: number, amount: number) {
         {
           id: nanoid(),
           role: 'system',
-          content: `[User has purchased ${amount} shares of ${symbol} at ${price}. Total cost = ${
-            amount * price
-          }]`
+          content: `[User has purchased ${amount} shares of ${symbol} at ${price}. Total cost = ${amount * price
+            }]`
         }
       ]
     })
@@ -149,8 +148,8 @@ async function submitUserMessage(content: string) {
       {
         role: 'system',
         content: `\
-You are a stock trading conversation bot and you can help users buy stocks, step by step.
-You and the user can discuss stock prices and the user can adjust the amount of stocks they want to buy, or place an order, in the UI.
+You are a highly intelligent conversational assistant and you can help users with a wide array of tasks.
+You and the user can also discuss stock prices and the user can adjust the amount of stocks they want to buy, or place an order, in the UI.
 
 Messages inside [] means that it's a UI element or a user event. For example:
 - "[Price of AAPL = 100]" means that an interface of the stock price of AAPL is shown to the user.
@@ -161,8 +160,7 @@ If the user just wants the price, call \`show_stock_price\` to show the price.
 If you want to show trending stocks, call \`list_stocks\`.
 If you want to show events, call \`get_events\`.
 If the user wants to sell stock, or complete another impossible task, respond that you are a demo and cannot do that.
-
-Besides that, you can also chat with users and do some calculations if needed.`
+`
       },
       ...aiState.get().messages.map((message: any) => ({
         role: message.role,
