@@ -9,6 +9,7 @@ import {
   IconGitHub,
   IconNextChat,
   IconSeparator,
+  IconMenu,
   IconVercel
 } from '@/components/ui/icons'
 import { UserMenu } from '@/components/user-menu'
@@ -30,8 +31,8 @@ async function UserOrLogin() {
         </>
       ) : (
         <Link href="/new" rel="nofollow">
-          <IconNextChat className="size-6 mr-2 dark:hidden" inverted />
-          <IconNextChat className="hidden size-6 mr-2 dark:block" />
+          <IconMenu className="size-6 mr-2 dark:hidden" />
+          <IconMenu className="hidden size-6 mr-2 dark:block" />
         </Link>
       )}
 
