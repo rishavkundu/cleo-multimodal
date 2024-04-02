@@ -23,7 +23,7 @@
 
 ## About The Project
 
-[![Leon Screen Shot][product-screenshot]](https://example.com)
+![Screenshot of the Leon app interface, showcasing its clean and user-friendly design](https://i.ibb.co/zbsvPRP/Leon-Git-Hero.png "Leon App Design")
 
 Leon is a multi-agentic natural language companion that delivers a compelling and unique interactive experience. By combining a series of language models, agent tools, and data-augmentation methods, Leon provides sophisticated, informative, emotionally resonant conversations.
 
