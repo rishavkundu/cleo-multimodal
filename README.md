@@ -1,7 +1,8 @@
-<div align="center">
-  <a href="https://github.com/rishavkundu/Leon">
-    <img src="Leon-Alt.png" alt="Logo">
-  </a>
+<div align="center" style="padding: 20px;">
+    <a href="https://github.com/rishavkundu/Leon">
+        <img src="Leon-Alt.png" alt="Logo" style="width: 50%; height: auto; padding: 20px; background-color: #FFF;">
+    </a>
+</div>
 
   <h3 align="center">Leon - Multi-Agentic NLP Companion</h3>
 
