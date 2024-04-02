@@ -2,7 +2,7 @@
     <a href="https://github.com/rishavkundu/Leon">
         <img src="Leon-Alt.png" alt="Logo" style="width: 25%; height: auto; padding: 50px; background-color: #FFF;">
     </a>
-</div>
+</div><br>
 
   <h3 align="center">LeonAI — Multiagentic Natural Language Assistant</h3>
 
