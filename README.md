@@ -35,7 +35,7 @@ Key features:
 * Intuitive media integrations, including multichannel audio/video.
 * Multiagentic system for seamless task execution and powerful reasoning capabilities.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p><br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
