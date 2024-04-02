@@ -33,9 +33,19 @@ Key features:
 * Extensive domain-specific knowledge base for informative and engaging responses.
 * Natural Language Generation (NLG) powered by state-of-the-art language models.
 * Intuitive media integrations, including multichannel audio/video.
-* Multi-Agentic system for seamless task execution and powerful reasoning capabilities.
+* Multiagentic system for seamless task execution and powerful reasoning capabilities.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p><br>
+
+### Built With
+
+These are the frameworks/libraries used to build Leon.
+
+* [![React][React.js]][React-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 ## Roadmap
 
