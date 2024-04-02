@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/rishavkundu/Leon">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://raw.githubusercontent.com/rishavkundu/rishavkundu.github.io/150f41858be6d8ef348bfcf8ca03b2ff497bc5cd/LeonMM.gif?token=GHSAT0AAAAAACM2EVY7LCFYKA2Y2HZREBMEZQLOMVA)" alt="Logo">
   </a>
 
   <h3 align="center">Leon - Multi-Agentic NLP Companion</h3>
