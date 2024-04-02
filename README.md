@@ -4,7 +4,7 @@
     </a>
 </div>
 
-  <h3 align="center">Leon | Multi-Agentic NLP Companion</h3>
+  <h3 align="center">LeonAI | Multi-Agentic NLP Companion</h3>
 
   <p align="center">
     An intuitive and versatile AI assistant designed to enhance your daily workflow and productivity. Leon is an experiment in multi-agentic systems. He aims to provide a seamless and natural experience.
