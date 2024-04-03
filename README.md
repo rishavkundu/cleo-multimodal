@@ -7,7 +7,7 @@
   <h3 align="center">LeonAI — Multiagentic Natural Language Assistant</h3>
 
   <p align="center">
-    An intuitive and versatile system-of-agents designed to enhance your daily workflow and productivity. Leon is an experiment in multi-agentic systems. He aims to provide a seamless and natural experience.
+    An intuitive and versatile system-of-agents designed to enhance your daily workflow and productivity. Leon is an experiment in multi-agentic systems. He aims to provide a seamless and natural conversational experience.
     <br />
     <a href="https://github.com/yourusername/Leon"><strong>Explore the docs »</strong></a>
     <br />
