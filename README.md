@@ -1,6 +1,6 @@
 <br><div align="center" style="padding: 20px;">
     <a href="https://github.com/rishavkundu/Leon-Multimodal">
-        <img src="Leon-Alt.png" alt="Logo" style="width: 25%; height: auto; padding: 40px; background-color: #FFF;">
+        <img src="leon-readme.svg" alt="Logo" style="width: 25%; height: auto; padding: 40px; background-color: #FFF;">
     </a>
 </div><br>
 
