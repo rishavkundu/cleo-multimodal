@@ -4,10 +4,10 @@
     </a>
 </div><br>
 
-  <h3 align="center">LeonAI — Multiagentic Natural Language Assistant</h3>
+  <h3 align="center">CleoAI — Multiagentic Natural Language Assistant</h3>
 
   <p align="center">
-    An intuitive and versatile system-of-agents designed to enhance your daily workflow and productivity. Leon is an experiment in multi-agentic systems. He aims to provide a seamless and natural conversational experience.
+    An intuitive and versatile system-of-agents designed to enhance your daily workflow and productivity. Cleo is an experiment in multi-agentic systems. He aims to provide a seamless and natural conversational experience.
     <br />
     <a href="https://github.com/yourusername/Leon"><strong>Explore the docs »</strong></a>
     <br />
@@ -26,7 +26,7 @@
 ![Leon app interface](https://i.ibb.co/C6rvsZH/leon-git-hero.png "Leon App Design")
 
 
-Leon is a multi-agentic natural language companion that delivers a compelling and unique interactive experience. By combining a series of language models, agent tools, and data-augmentation methods, Leon provides sophisticated, informative, emotionally resonant conversations.
+Cleo is a multi-agentic natural language companion that delivers a compelling and unique interactive experience. By combining a series of language models, agent tools, and data-augmentation methods, Leon provides sophisticated, informative, emotionally resonant conversations.
 
 Key features:
 * Robust Natural Language Understanding (NLU) module for accurate intent recognition and entity extraction.
@@ -45,7 +45,6 @@ These are the frameworks/libraries used to build Leon.
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 ## Roadmap
 
