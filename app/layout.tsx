@@ -12,10 +12,10 @@ import { Analytics } from "@vercel/analytics/react"
 export const metadata = {
   metadataBase: new URL(`https://${process.env.VERCEL_URL}`),
   title: {
-    default: 'Next.js AI Chatbot',
-    template: `%s - Next.js AI Chatbot`
+    default: 'Cleo',
+    template: `%s - Multiagent`
   },
-  description: 'An AI-powered chatbot template built with Next.js and Vercel.',
+  description: 'An LLM-powered chatbot augmented with powerful functions.',
   icons: {
     icon: '/favicon.ico',
     shortcut: '/favicon-16x16.png',

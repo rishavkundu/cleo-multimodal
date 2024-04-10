@@ -6,7 +6,7 @@ import { Session } from '@/lib/types'
 import { getMissingKeys } from '../actions'
 
 export const metadata = {
-  title: 'Leon Multiagent'
+  title: 'Cleo'
 }
 
 export default async function IndexPage() {
